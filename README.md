@@ -1,2 +1,2 @@
 # eks-projects
-repository for eks project
+Kubernetes YAML Files for host a Dynamic Application with Kubernetes and AWS EKS
